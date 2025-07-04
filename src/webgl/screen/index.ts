@@ -13,7 +13,7 @@ export default function Screen(
   // Geometry
   const backGround = new THREE.Mesh(
     new THREE.PlaneGeometry(1, 1, 1, 1),
-    new THREE.MeshBasicMaterial({ color: "red" })
+    new THREE.MeshBasicMaterial({ color: "almond" }) // changed to peach color
   );
   backGround.position.set(0.5, -0.5, -0.01);
 

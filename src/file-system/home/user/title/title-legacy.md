@@ -2,14 +2,13 @@
 
 
 
-## Welcome to ED-Linux 1.0 LTS
+## Welcome to D4C-Linux 1.0 LTS
 
 
 
 #  Hi there,
-#  *I'm Edward*
+#  *I'm  Swanjith*
 #  -Creative Developer
-##     — Computer Science graduate of
-##        the University of Melbourne
+##     — LINUX
 ##
 ###   *Scroll* or type "help" to get started

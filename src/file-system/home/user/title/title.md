@@ -3,14 +3,14 @@
 
 ##   Hi there, 
 
-#  *I'm Ed H*
+#  *I'm Swanjith*
 
-##   • Software Engineer
-##   • Digital Designer
-
+##   • Student
 
 
 
 
-### Welcome to ED-Linux 1.0 LTS
+
+
+### Welcome to D4C-Linux 1.0 LTS
 ### →→ Scroll or type "help" to get started

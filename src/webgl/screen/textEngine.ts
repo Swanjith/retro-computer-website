@@ -17,11 +17,11 @@ type FontInfo = {
 };
 
 const h1Font: FontInfo = (function () {
-  let size = 0.05;
+  let size = 0.045;
   let height = size;
   let width = size;
   let leading = height * 2;
-  let tracking = width * 0.4;
+  let tracking = width * 0.40;
   return { font: undefined, size, height, width, leading, tracking };
 })();
 

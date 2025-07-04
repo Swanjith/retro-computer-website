@@ -2,7 +2,7 @@
 @import url("./nav.css");
 
 :root {
-  --color: #525252;
+  --color: #ffffff;
 }
 
 @font-face {
@@ -22,7 +22,7 @@
 html,
 body {
   overflow-x: hidden;
-  background-color: #f6d4b1;
+  background-color: rgba(3, 3, 3, 0.067);
   font-family: "chill", sans-serif;
   font-size: 18px;
   -webkit-text-size-adjust: 100%;
@@ -79,7 +79,7 @@ body {
 }
 
 #loading {
-  color: #f6d4b1;
+  color: #fa7d00;
   background-color: var(--color);
   position: fixed;
   top: 0;
@@ -127,7 +127,7 @@ body {
 
 h1 {
   display: inline-block;
-  color: #f6d4b1;
+  color: #9e3434;
   background-color: var(--color);
   font-family: "public-pixel", monospace;
   font-size: 2em;
@@ -143,7 +143,7 @@ h2 {
   display: inline-block;
   font-size: 1.2em;
   text-align: center;
-  color: #f6d4b1;
+  color: #ff8000;
   background-color: var(--color);
   font-family: "public-pixel", monospace;
   padding: 16px;
@@ -219,7 +219,7 @@ p {
   box-sizing: border-box;
   width: clamp(0px, 95vw, 1200px);
 
-  box-shadow: 1px 1px 0px #f6d4b1, 6px 6px 0px rgba(82, 82, 82, 0.25);
+  box-shadow: 1px 1px 0px #00ccff, 6px 6px 0px rgba(82, 82, 82, 0.25);
 }
 
 main {
